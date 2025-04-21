@@ -5,8 +5,8 @@
 
 from dataclasses import MISSING
 
-from omni.isaac.lab.utils import configclass
-from omni.isaac.lab.actuators import DCMotorCfg
+from isaaclab.utils import configclass
+from isaaclab.actuators import DCMotorCfg
 
 from .actuator_pd import IdentifiedActuator
 

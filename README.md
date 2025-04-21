@@ -1,7 +1,7 @@
 # Berkeley Humanoid Traning Code
 
-[![IsaacSim](https://img.shields.io/badge/IsaacSim-4.0.0-silver.svg)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
-[![Isaac Lab](https://img.shields.io/badge/IsaacLab-1.0.0-silver)](https://isaac-sim.github.io/IsaacLab)
+[![IsaacSim](https://img.shields.io/badge/IsaacSim-4.5.0-silver.svg)](https://docs.omniverse.nvidia.com/isaacsim/latest/overview.html)
+[![Isaac Lab](https://img.shields.io/badge/IsaacLab-2.0.2-silver)](https://isaac-sim.github.io/IsaacLab)
 [![Python](https://img.shields.io/badge/python-3.10-blue.svg)](https://docs.python.org/3/whatsnew/3.10.html)
 [![Linux platform](https://img.shields.io/badge/platform-linux--64-orange.svg)](https://releases.ubuntu.com/20.04/)
 
@@ -23,8 +23,8 @@ If you use this work in an academic context, please consider citing the followin
 ### Installation
 
 - Install Isaac Lab, see
-  the [installation guide](https://isaac-sim.github.io/IsaacLab/source/setup/installation/index.html). **Please use
-  [IsaacLab v1.0.0 with IsaacSim 4.0.0](https://github.com/isaac-sim/IsaacLab/blob/3ad18a8e1a5c166ad1a22f105d47a5c578de68d7/docs/source/setup/installation/pip_installation.rst)**.
+  the [installation guide](https://isaac-sim.github.io/IsaacLab/main/index.html). **Please use
+  [IsaacLab v2.0.2 with IsaacSim 4.5.0](https://docs.isaacsim.omniverse.nvidia.com/latest/installation/download.html)**.
 
 - Using a python interpreter that has Isaac sLab installed, install the library
 

@@ -3,7 +3,7 @@
 #
 # SPDX-License-Identifier: BSD-3-Clause
 
-from omni.isaac.lab.utils import configclass
+from isaaclab.utils import configclass
 
 from berkeley_humanoid.tasks.locomotion.velocity.velocity_env_cfg import \
     LocomotionVelocityRoughEnvCfg

@@ -3,9 +3,9 @@
 #
 # SPDX-License-Identifier: BSD-3-Clause
 
-import omni.isaac.lab.sim as sim_utils
+import isaaclab.sim as sim_utils
 from berkeley_humanoid.actuators import IdentifiedActuatorCfg
-from omni.isaac.lab.assets.articulation import ArticulationCfg
+from isaaclab.assets import ArticulationCfg
 
 from berkeley_humanoid.assets import ISAAC_ASSET_DIR
 

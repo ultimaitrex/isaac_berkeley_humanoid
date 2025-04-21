@@ -8,9 +8,9 @@ from __future__ import annotations
 import torch
 from typing import TYPE_CHECKING
 
-from omni.isaac.core.utils.types import ArticulationActions
+from isaaclab.utils.types import ArticulationActions
 
-from omni.isaac.lab.actuators import DCMotor
+from isaaclab.actuators import DCMotor
 
 if TYPE_CHECKING:
     from .actuator_cfg import IdentifiedActuatorCfg
